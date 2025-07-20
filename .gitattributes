@@ -1,0 +1,2 @@
+ppt_tool.dist/** filter=lfs diff=lfs merge=lfs -text
+ppt_tool.build/** filter=lfs diff=lfs merge=lfs -text
